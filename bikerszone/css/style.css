@@ -1,0 +1,9 @@
+.bz-light-red{
+    background-color: red;
+}
+
+
+.btn-bz-danger{
+    background-color: rgba(234, 82, 115, 0.505);
+    color: white;
+}
